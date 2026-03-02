@@ -1,2 +1,1 @@
-# madoka_words
-madoka_script_records
+Don't read me. Read madoka.
